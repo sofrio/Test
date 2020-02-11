@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python ~pi/CMS/numberplate.py

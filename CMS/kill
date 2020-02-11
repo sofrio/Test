@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pkill -f python
+pkill -f curl
+pkill -f arecord

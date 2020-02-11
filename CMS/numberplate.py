@@ -2,6 +2,8 @@
 __author__ = "kojima@sofrio.com"
 __date__ = "Sep  21 11:12:42 2018"
 
+#追加
+
 import os
 import sys
 import time
